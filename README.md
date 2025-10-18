@@ -19,3 +19,5 @@ Total no. of attributes:16 No .of instances:284 Attribute information:
  14. Swallowing Difficulty: YES=2, NO=1. , NO=1. , NO=1. , NO=1. 
  15. Chest pain: YES=2, NO=1. 
  16. Lung Cancer: YES, N, NO.
+ 
+ https://www.kaggle.com/datasets/jillanisofttech/lung-cancer-detection?resource=download
